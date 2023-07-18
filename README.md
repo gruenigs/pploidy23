@@ -18,7 +18,7 @@ cd ../..
 
 ## Part 1 - inheritance
 
-**Input files** = `inheritance.tetraH.SNPs.vcf.gz` and `inheritance.tetraH.SNPs.vcf.gz`
+**Input files** = `inheritance.tetraL.SNPs.vcf.gz` and `inheritance.tetraH.SNPs.vcf.gz`
 These inputs correspond to one vcf file per population and they only include variant sites (i.e. biallelic SNPs).
 
 1. From the renku laucher tab, lauch Rstudio.

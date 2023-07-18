@@ -1,8 +1,3 @@
----
-title: "Autopolyploid populations"
-geometry: margin=2cm
----
-
 # Autopolyploid populations
 
 ## Provided material
